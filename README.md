@@ -5,7 +5,7 @@ Deventer, Netherlands.
 
 [Google Developer Expert](https://developers.google.com/profile/u/duizendstra) since 2016,
 for Google Workspace. Certified Google Cloud Architect, Data Engineer, Developer and
-Workspace Administrator. Champion Innovator (Google Workspace) and Google Cloud Innovator.
+Workspace Administrator.
 
 A decade on the Google platform, building for Ahold-Delhaize, pladis, G4S, Greenpeace,
 the Football Association, Randstad and DMG among others, across retail, sports,
