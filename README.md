@@ -20,6 +20,10 @@ logistics, hospitality, automotive and healthcare.
   that stand up a GCP organisation. Alongside them, Protobuf and ConnectRPC service
   contracts, golden build blueprints, and the agent skills and `AGENTS.md` my coding
   agents work under. Apache-2.0.
+- **[diffract](https://github.com/contextvibes/diffract)**, my review protocol for
+  human-AI collaboration. Same artifact, same lenses, different reviewer, same findings.
+  It does not get there yet: the August 2026 calibration run failed for every reviewer
+  pairing, and the repository publishes that rather than burying it. MIT.
 - **[public-speaking](https://github.com/duizendstra/public-speaking)**, talks drafted in
   the open, personas and all. *The AI Scrum Master*, Google Workspace Summit Paris,
   October 2025: getting past prompt fatigue to a repeatable way of working with an AI
