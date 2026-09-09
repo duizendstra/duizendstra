@@ -8,29 +8,29 @@ Architect, Data Engineer, Developer and Workspace Administrator. Champion Innova
 (Google Workspace) and Google Cloud Innovator.
 
 A decade on the Google platform, building for Ahold-Delhaize, pladis, G4S, Greenpeace,
-the Football Association, Randstad and DMG among others — across retail, sports,
+the Football Association, Randstad and DMG among others, across retail, sports,
 logistics, hospitality, automotive and healthcare. Independent, from a home office in
 the eastern Netherlands.
 
 ### What I'm building
 
-- **[alexandria](https://github.com/duizendstra/alexandria)** — *the arctic vault:* one
+- **[alexandria](https://github.com/duizendstra/alexandria)**, the arctic vault: one
   canonical place for everything I use to build software. Independently versioned Go
-  modules — retries and GCP error classification, a `slog` handler for Cloud Logging with
-  OpenTelemetry trace context, Google Workspace authenticators and client factories, and a
-  dataset-equivalence differ. Apache-2.0.
-- **[public-speaking](https://github.com/duizendstra/public-speaking)** — talks and
-  workshop material, drafted in the open. Most recent: *The AI Scrum Master*, Google
-  Workspace Summit Paris, October 2025 — getting past prompt fatigue to a repeatable way
-  of working with an AI partner: context kept in the repository, a shared mental model to
-  navigate it, and tests as the trust engine.
+  modules for retries and GCP error classification, a `slog` handler for Cloud Logging
+  with OpenTelemetry trace context, Google Workspace authenticators and client
+  factories, and a dataset-equivalence differ. Apache-2.0.
+- **[public-speaking](https://github.com/duizendstra/public-speaking)**, talks and
+  workshop material drafted in the open. Most recent: *The AI Scrum Master*, Google
+  Workspace Summit Paris, October 2025, on getting past prompt fatigue to a repeatable
+  way of working with an AI partner. Context kept in the repository, a shared mental
+  model to navigate it, and tests as the trust engine.
 
 ### The long road here
 
 Lotus Notes and Domino, then Apps Script, then Google Cloud, now Go and agents. My
-highest-scoring Stack Overflow answers are still about Domino, which I find funnier every
-year — but it has been the same job throughout: making one organisation's systems talk to
-another's without either of them noticing.
+highest-scoring Stack Overflow answers are still about Domino, which I find funnier
+every year. It has been the same job throughout: making one organisation's systems talk
+to another's without either of them noticing.
 
 ### Elsewhere
 
